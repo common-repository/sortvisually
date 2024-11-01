@@ -1,0 +1,18 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .input-field,
+ .description {
+     width: 100%;
+     max-width: 450px;
+ }
+ .input-field > * {
+     width: 100%;
+ }
+ .copy_btn {
+     display: inline-block;
+     margin-right: 10px;
+     margin-top: 10px;
+ }
